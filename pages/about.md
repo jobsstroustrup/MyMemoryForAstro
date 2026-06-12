@@ -23,9 +23,9 @@ Online I also go by the pen name **Jobs Stroustrup** — a small, deliberate hom
 
 ### Current Positioning
 
-I am a **passive shareholder + passive participant @ TerraByte Intelligence (YC Spring 26)**. I do not hold an operational role at the company. My day-to-day energy is on **AI-powered personal effectiveness** — the long-running ONE-AGI thread on how a single technically-fluent person, paired with modern AI tools, can credibly take on what used to require a team. I write, build small tools, and continue the climate-physics technical stack as a personal research interest rather than a career-track commitment.
+I am a **Co-Founder of TerraByte Intelligence (YC Spring 2026)**, a robotics data-collection startup I co-founded in December 2025. As founding CEO I led the team to a Y Combinator Spring 2026 offer. The team chose not to join the batch after weighing the program timing and the company's decision to base operations in China, and I remain a Co-Founder responsible for the U.S. side. Early partnerships included an enterprise agreement with Wanda Group (January 2026). My day-to-day energy is now on **AI safety and AI policy**, alongside the long-running ONE-AGI thread on AI-powered personal effectiveness: how a single technically-fluent person, paired with modern AI tools, can credibly take on what used to require a team. I also continue the climate-physics technical stack as a personal research interest.
 
-In an earlier business-development phase I worked with five corporate counterparties whose names appear in this section only because they have explicitly consented to public reference. The five names are listed at the end of this page, after a buffer paragraph, to honor the company-secret boundary policy. Specifics about deal terms, internal team composition, and any non-listed counterparty are out of scope for this page.
+In an earlier business-development phase I worked with corporate counterparties whose names appear in this section only because they have explicitly consented to public reference. To honor the company-secret boundary policy, specifics about deal terms, internal team composition, and any non-consented counterparty are out of scope for this page. For TerraByte product or commercial inquiries, please contact the company through its own channels.
 
 ### Research Identity (4 Dimensions)
 
@@ -37,6 +37,17 @@ Across roughly seven years (2019–2026), my research record clusters into four 
 4. **Nuclear safety & AI engineering.** In October 2024, I gave an invited talk at Princeton SGS — *"Constraining the Dynamics of Extreme Convection in the Case of Hiroshima"* — to **Frank von Hippel** and a small group of nuclear-security researchers. The Princeton work, plus the cross-cutting Fortran/Python/HPC stack, is being redirected from academic refinement toward industry-scale engineering. Alongside this, I write tools — Selenium scrapers, scientific-computing pipelines, automation scripts — and treat AI tooling as a force multiplier rather than a separate discipline.
 
 A common theme across all four: **multi-method comparison** (running 3+ independent approaches against the same problem), preserving inconvenient evidence next to convenient evidence in the repository, and a preference for catching one's own mistakes in code review before they reach a paper.
+
+### Publications and Preprints
+
+**Agents' Last Exam (ALE)**. Co-author (Data Contributors group). A 1,000+-task agent benchmark spanning 55 specialized domains, from UC Berkeley RDI (Dawn Song lab). I built and evaluated agent tasks in the natural-science domain. Submission under review, NeurIPS 2026 Evaluations and Datasets (E&D) Track. arXiv:2606.05405 (https://arxiv.org/abs/2606.05405).
+
+### Manuscripts Under Review
+
+These are listed with title, author position, and journal only, pending peer review.
+
+- "A cloud-resolving simulation of the Hiroshima firestorm plume." First author. Corresponding author David Romps. Under review at JGR-Atmospheres, 2026.
+- "A lower bound on the altitude of the Hiroshima firestorm plume from ray optics." Third author. Corresponding author David Romps. Under review at Geophysical Research Letters (GRL), 2026.
 
 ### Mentor Influences
 
@@ -59,10 +70,11 @@ Other lab mates and collaborators are deliberately not named here — names appe
 - **Languages**: native Mandarin Chinese; fluent professional English (research writing, technical talks, and day-to-day collaboration); reading-level scientific French as a side interest.
 - **Contact**: `zhenyuhe@berkeley.edu` is the right inbox for substantive email. I prefer asynchronous email over real-time channels for first contact — it gives me time to give a real answer instead of a fast one. For research correspondence, please put a one-line summary at the top; I read and reply faster when the ask is in the first paragraph.
 - **Methodology for getting a useful reply**: tell me what you have already tried, what specific question you want me to answer, and what would constitute a "good" response. This is the same discipline I apply when emailing senior collaborators — it is the cheapest possible courtesy and it works.
+- **Profiles**: ORCID 0009-0005-1942-9469 (https://orcid.org/0009-0005-1942-9469); Google Scholar (https://scholar.google.com/citations?user=OK6sAb0AAAAJ).
 
 ### What I Am Not Doing
 
-To keep this page honest about scope: I am not currently taking consulting work, I am not advertising specific services, and I am not actively on the job market for traditional research roles. The climate-physics work continues as a personal interest. The TerraByte involvement is, again, passive. If you are looking for the operational team at TerraByte or for current commercial inquiries, please contact the company directly through its own channels rather than through me.
+To keep this page honest about scope: I am not currently taking consulting work, and I am not advertising specific services. The climate-physics work continues as a personal interest. For TerraByte product details or current commercial inquiries, please contact the company directly through its own channels.
 
 ### Looking for the 2021 version of this site?
 
@@ -85,9 +97,9 @@ This is the 2026 rebuild. The original site (2020–2021, ~33 undergraduate-era 
 
 ### 当前定位
 
-我是 **passive shareholder + passive participant @ TerraByte Intelligence (YC Spring 26)**，不担任公司的任何运营角色。日常精力放在 **AI 赋能的个人效率** 上 —— 这是我长期跟进的 ONE-AGI 主线：一个技术上有发言权的人，结合现代 AI 工具，能否可信地承担过去需要一个团队才能做的事。我写作、做小工具、把气候物理这套技术栈作为个人研究兴趣继续往下走，不再作为职业路径上的承诺。
+我是 **TerraByte Intelligence 联合创始人（YC Spring 2026）**。这家机器人数据采集创业公司由我在 2025 年 12 月联合创办。作为创始 CEO，我带领团队拿到 Y Combinator Spring 2026 offer。团队在权衡 program timing 与公司将主体运营设在中国之后，选择不加入该批次，我仍作为联合创始人负责美国一侧。早期合作包括与万达集团达成的企业合作（2026 年 1 月）。我目前的主要精力放在 **AI 安全与 AI 政策** 上，同时延续长期跟进的 ONE-AGI 主线（AI 赋能的个人效率）：一个技术上有发言权的人，结合现代 AI 工具，能否可信地承担过去需要一个团队才能做的事。我也把气候物理这套技术栈作为个人研究兴趣继续往下走。
 
-在更早的商务拓展阶段，我与五家企业对手方有过数据合作。这五家公司的名字仅在本页末尾的"已同意公开提及的合作方"段落出现 —— 这样的安排是出于商业机密边界政策的考虑。具体的合作条款、内部团队结构、以及未列出的任何对手方都不在本页讨论范围内。
+在更早的商务拓展阶段，我与企业对手方有过数据合作。这些公司的名字仅在已获得明确公开同意的前提下才会出现。出于商业机密边界政策的考虑，具体的合作条款、内部团队结构、以及未经同意的任何对手方都不在本页讨论范围内。TerraByte 的产品与商务咨询请通过公司官方渠道联系。
 
 ### 研究身份（4 个维度）
 
@@ -99,6 +111,17 @@ This is the 2026 rebuild. The original site (2020–2021, ~33 undergraduate-era 
 4. **核安全与 AI 工程。** 2024 年 10 月，受邀在 Princeton SGS 做演讲 —— *"Constraining the Dynamics of Extreme Convection in the Case of Hiroshima"* —— 听众是 **Frank von Hippel** 和一群核安全研究者。这条 Princeton 主线，加上跨越 Fortran/Python/HPC 的技术栈，正在从学术雕琢转向产业级工程。与此同时我写工具 —— Selenium 抓取脚本、科学计算 pipeline、自动化脚本 —— 把 AI 工具当作放大器而不是另一个独立学科。我也曾参与 **顾理想（Lixiang Gu）** 的研究线。
 
 四条线的共同主题：**多方法比较**（同一问题用 3+ 种独立方法跑一遍）、**保留不利证据**（在 repo 里把不方便的结果文件留在方便的旁边）、并且偏爱在自己代码评审里抓出错误而不是让它进入论文。
+
+### 论文与预印本
+
+**Agents' Last Exam (ALE)**。共同作者（Data Contributors 组）。一个覆盖 55 个专业领域、超过 1,000 项任务的 agent benchmark，出自 UC Berkeley RDI（Dawn Song 实验室）。我负责构建并评估自然科学领域的 agent 任务。论文投稿，审稿中，NeurIPS 2026 Evaluations and Datasets (E&D) Track。arXiv:2606.05405（https://arxiv.org/abs/2606.05405）。
+
+### 审稿中的手稿
+
+以下仅列出标题、作者位次与期刊，论文尚在同行评审中。
+
+- "A cloud-resolving simulation of the Hiroshima firestorm plume"。第一作者。通讯作者 David Romps。审稿中，JGR-Atmospheres，2026。
+- "A lower bound on the altitude of the Hiroshima firestorm plume from ray optics"。第三作者。通讯作者 David Romps。审稿中，Geophysical Research Letters (GRL)，2026。
 
 ### 导师影响
 
@@ -121,10 +144,11 @@ This is the 2026 rebuild. The original site (2020–2021, ~33 undergraduate-era 
 - **语言**：母语普通话；流利的专业英语（研究写作、技术演讲、日常协作）；阅读级科学法语作为业余兴趣。
 - **联系方式**：`zhenyuhe@berkeley.edu` 是处理实质邮件的正确收件箱。首次联系我偏好异步邮件而不是即时通讯 —— 这给我足够时间给你一个真正的回答，而不是一个快速的回答。研究类邮件请把一行摘要放在最上面；问题在第一段时我读得快、回得快。
 - **如何让我给出有用回复的方法论**：告诉我你已经试过什么、希望我具体回答什么问题、什么样的回答对你算"好"。这是我在写信给资深合作者时同样会用的纪律 —— 是最便宜的礼貌，也是最管用的。
+- **学术主页**：ORCID 0009-0005-1942-9469（https://orcid.org/0009-0005-1942-9469）；Google Scholar（https://scholar.google.com/citations?user=OK6sAb0AAAAJ）。
 
 ### 我不在做什么
 
-为了让本页对自己的范围保持诚实：我目前不接咨询工作，不在本页推销具体服务，也不在传统研究岗位的求职市场上活跃。气候物理工作以个人兴趣的形式继续。TerraByte 的参与，再次说明，是被动的。如果你在找 TerraByte 的运营团队或者当前的商务合作信息，请通过公司自己的渠道联系，而不是通过我。
+为了让本页对自己的范围保持诚实：我目前不接咨询工作，也不在本页推销具体服务。气候物理工作以个人兴趣的形式继续。TerraByte 的产品信息或当前商务合作请通过公司自己的渠道联系。
 
 ### 想看 2021 版本的网站？
 
